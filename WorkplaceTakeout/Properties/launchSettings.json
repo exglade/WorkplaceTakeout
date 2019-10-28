@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WorkplaceTakeout": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Local"
+      }
+    }
+  }
+}
